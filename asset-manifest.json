@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alejojg00/presentacion/static/css/main.9902d67a.css",
+    "main.js": "/alejojg00/presentacion/static/js/main.8c45efad.js",
+    "index.html": "/alejojg00/presentacion/index.html",
+    "main.9902d67a.css.map": "/alejojg00/presentacion/static/css/main.9902d67a.css.map",
+    "main.8c45efad.js.map": "/alejojg00/presentacion/static/js/main.8c45efad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9902d67a.css",
+    "static/js/main.8c45efad.js"
+  ]
+}
