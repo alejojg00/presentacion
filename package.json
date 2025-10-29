@@ -1,7 +1,7 @@
 {
   "name": "presentacion",
   "version": "0.1.0",
-  "homepage": "https://github.com/alejojg00/presentacion",
+  "homepage": "https://alejojg00.github.io/presentacion",
   "private": true,
   "dependencies": {
     "lucide-react": "^0.263.1",
